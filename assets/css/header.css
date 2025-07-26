@@ -54,7 +54,7 @@
     margin-right: .5rem;
 }
 
-.info .avatar::before {
+.info .job::before {
     background-image: url('/assets/img/icons/avatar.svg');
 }
 
