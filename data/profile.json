@@ -9,27 +9,27 @@
     "hardSkills": [
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/amanmdest/portfolioDioJs/refs/heads/mainassets/img/tools/python.svg"
+        "logo": "https://raw.githubusercontent.com/amanmdest/portfolioDioJs/refs/heads/main/assets/img/tools/python.svg"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/amanmdest/portfolioDioJs/refs/heads/mainassets/img/tools/js.svg"
+        "logo": "https://raw.githubusercontent.com/amanmdest/portfolioDioJs/refs/heads/main/assets/img/tools/js.svg"
       },
       {
         "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/amanmdest/portfolioDioJs/refs/heads/mainassets/img/tools/nodejs.svg"
+        "logo": "https://raw.githubusercontent.com/amanmdest/portfolioDioJs/refs/heads/main/assets/img/tools/nodejs.svg"
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/amanmdest/portfolioDioJs/refs/heads/mainassets/img/tools/react.svg"
+        "logo": "https://raw.githubusercontent.com/amanmdest/portfolioDioJs/refs/heads/main/assets/img/tools/react.svg"
       },
       {
         "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/amanmdest/portfolioDioJs/refs/heads/mainassets/img/tools/mongodb.svg"
+        "logo": "https://raw.githubusercontent.com/amanmdest/portfolioDioJs/refs/heads/main/assets/img/tools/mongodb.svg"
       },
       {
         "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/amanmdest/portfolioDioJs/refs/heads/mainassets/img/tools/postgresql.svg"
+        "logo": "https://raw.githubusercontent.com/amanmdest/portfolioDioJs/refs/heads/main/assets/img/tools/postgresql.svg"
       }
     ],
     "softSkills": [
